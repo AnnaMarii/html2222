@@ -1,0 +1,63 @@
+body {
+  background-color: #fef5f5;
+}
+
+table {
+    border: 3px solid rgb(5, 155, 181);
+    border-collapse:inherit;
+    background-color: rgb(255, 240, 245);
+    margin: auto;
+}
+
+td, th, tr {
+    border: 1px solid rgb(0, 0, 0);
+    text-align: center;
+}
+
+.t_l, .t_l_1 {
+    text-align: left;
+}
+
+.t_l {
+    background-color: #eefdfd;
+}
+
+.t_l_1 {
+    background-color: #eeeefd;
+}
+
+.t_oc {
+    background-color: rgba(252, 203, 228, 0.689);
+}
+
+img {
+    width: 199px;
+    vertical-align: middle;
+}
+
+caption {
+    color: palevioletred;
+    font-size: 20px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    font-weight: bold;
+}
+
+a {
+    font-size: 20px;
+    color: palevioletred;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+a:hover {
+    color: rgb(0, 186, 186);
+    font-weight: bold;
+    border-bottom: double;
+}
+
+
+div {
+    text-align: center;
+    margin-top: 15px;
+}
